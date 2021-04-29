@@ -5,3 +5,9 @@ EL objetivo de este proyecto es ofrecer una herramienta para instalar la *Cadena
 ## Enlaces
 
 Se pueden descargar manualmente los certficados desde la sección de *[Descargas y tutoriales](https://www.argentina.gob.ar/modernizacion/firmadigital/descargas-tutoriales)*
+
+##TO DO
+
+- [ ] Verificar la existencia de las URLs de descarga.
+- [ ] Convertir el listado de certificados (URL + Descripción) en arreglo.
+- [ ] Seguramente algo más habrá para mejorar. 
