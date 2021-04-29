@@ -4,4 +4,4 @@ EL objetivo de este proyecto es ofrecer una herramienta para instalar la *Cadena
 
 ## Enlaces
 
-[Descargas y tutoriales](https://www.argentina.gob.ar/modernizacion/firmadigital/descargas-tutoriales)
+Se pueden descargar manualmente los certficados desde la sección de *[Descargas y tutoriales](https://www.argentina.gob.ar/modernizacion/firmadigital/descargas-tutoriales)*
